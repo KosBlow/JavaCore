@@ -1,4 +1,4 @@
-package core.tasks.food;
+package core.tasks.level13.food;
 
 public class Solution {
     public static void main(String[] args) {

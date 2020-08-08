@@ -1,4 +1,4 @@
-package core.tasks.robotsFight;
+package core.tasks.level13.robotsFight;
 
 public class Solution {
     public static void main(String[] args) {

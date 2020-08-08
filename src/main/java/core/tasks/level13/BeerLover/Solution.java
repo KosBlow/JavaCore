@@ -1,4 +1,4 @@
-package core.tasks.BeerLover;
+package core.tasks.level13.BeerLover;
 
 /*
 1. Подумай, какой из двух интерфейсов нужно реализовать в классе BeerLover.

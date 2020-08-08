@@ -1,4 +1,4 @@
-package core.tasks.repkaStory;
+package core.tasks.level13.repkaStory;
 
 public class Person implements RepkaItem {
     private String name;
